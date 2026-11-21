@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Malindu Lakshan</h1>
-<h3 align="center">A passionate Mobile app developer from Sri Lanka</h3>
+<h3 align="center"> Software Engineering Undergraduate at BCI Campus Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malindulakshan603&label=Profile%20views&color=0e75b6&style=flat" alt="malindulakshan603" /> </p>
 
@@ -9,7 +9,7 @@
 
 - I’m currently learning **Enterprise Application Development**
                           "learn java more"
-
+                          "engage in mobile app learning" 
 - 📫 How to reach me **malindul850@gmail.com**
 
 <h3 align="left">Connect with me: malindul850@gmail.com</h3>
