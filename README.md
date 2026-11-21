@@ -5,15 +5,14 @@
 
 ---
 
-- 🔭 I’m currently working on **Geometry Progect**
 
-- 🌱 I’m currently learning **Python OOP methods**
 
-- 💬 Ask me about **React**
+- I’m currently learning **Enterprise Application Development**
+
 
 - 📫 How to reach me **malindul850@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: malindul850@gmail.com</h3>
 <p align="left">
 </p>
 
