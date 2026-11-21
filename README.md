@@ -7,7 +7,7 @@
 
 
 
-- I’m currently learning **Enterprise Application Development**
+- I’m currently learning **Enterprise Application Development** along with
                           "learn java more"
                           "engage in mobile app learning" 
 - 📫 How to reach me **malindul850@gmail.com**
